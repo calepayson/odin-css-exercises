@@ -1,0 +1,19 @@
+.base {
+  background-color: lightpink;
+  font-family: "Verdana", "DejaVuSans", sans-serif;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#first {
+  color: blue;
+  font-size: 36px;
+}
+
+#second {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}

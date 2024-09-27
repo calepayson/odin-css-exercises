@@ -37,7 +37,7 @@ a {
   text-decoration: none;
 }
 
-.header {
+.header, .footer {
   display: flex;
   justify-content: space-between;
   padding: 16px;
@@ -46,4 +46,8 @@ a {
 .left-links, .right-links {
   display: flex;
   gap: 16px;
+}
+
+.footer {
+  background-color: gainsboro;
 }

@@ -25,27 +25,16 @@ img {
   background: #eee;
 }
 
+/* Solution */
 .title {
   text-align: center;
-  margin-bottom: 32px;
 }
 
-.container {
+.plants {
   display: flex;
-  justify-content: center;
-  gap: 52px;
 }
 
-.plant-container {
-  display: flex;
-  flex-direction: column;
-  max-width: 200px;
-}
-
-img {
-  margin: auto;
-}
-
-.text {
+.info {
   text-align: center;
+  max-width: 300px;
 }
